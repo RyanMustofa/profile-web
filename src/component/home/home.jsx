@@ -23,26 +23,24 @@ const Home = () => {
                     <div className="row">
                         <div class="col-lg">
                             <i
-                                class="material-icons float-left mr-2"
+                                class="fas fa-smile-beam font float-left mr-2"
                                 style={{
                                     fontSize: "50pt",
                                     color: "black !important"
                                 }}
                             >
-                                face
                             </i>
                             <h4>PROFILE</h4>
                             <p>My Name Is Ryan Mustofa 28 October 2003</p>
                         </div>
                         <div class="col-lg">
                             <i
-                                class="material-icons float-left mr-2"
+                                class="fab fa-whatsapp-square font float-left mr-2"
                                 style={{
                                     fontSize: "50pt",
                                     color: "black !important"
                                 }}
                             >
-                                account_circle
                             </i>
                             <h4>Contact</h4>
                             <p>
@@ -51,13 +49,12 @@ const Home = () => {
                         </div>
                         <div class="col-lg">
                             <i
-                                class="material-icons float-left mr-2"
+                                class="fas fa-map-marker font float-left mr-2"
                                 style={{
                                     fontSize: "50pt",
                                     color: "black !important"
                                 }}
                             >
-                                location_on
                             </i>
                             <h4>Location</h4>
                             <p>

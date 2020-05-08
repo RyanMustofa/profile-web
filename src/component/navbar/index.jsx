@@ -17,7 +17,7 @@ export const Navbar = ({ children }) => {
                         aria-expanded="false"
                         aria-label="Toggle navigation"
                     >
-                        <span class="navbar-toggler-icon"></span>
+                        <i class="fas fa-bars font" style={{ fontSize: "20px",color:"white" }}></i>
                     </button>
                     <div
                         class="collapse navbar-collapse"
